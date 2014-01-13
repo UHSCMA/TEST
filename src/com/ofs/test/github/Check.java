@@ -6,6 +6,6 @@ public class Check {
 		System.out.println("Testing Check Class");
 		// Commit changes
 		// Code commit
-		// Code commit 1 sd
+		// Code commit 1
 	}
 }
